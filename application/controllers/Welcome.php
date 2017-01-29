@@ -20,7 +20,8 @@ class Welcome extends Application
 	 
 	public function index()
 	{
-		$this->load->view('welcome');
+		$this->data['pageview']='welcome';
+		$this->render();
 	}
 
 }
