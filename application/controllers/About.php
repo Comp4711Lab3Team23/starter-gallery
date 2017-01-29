@@ -20,7 +20,7 @@ class About extends Application
 	 
 	public function index()
 	{
-		$this->data['pageview'] = 'about';
+		$this->data['pagebody'] = 'about';
 		$this->render();
 	}
 }
