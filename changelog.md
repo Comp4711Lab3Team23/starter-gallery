@@ -30,4 +30,15 @@ Release Date: Jul 26, 2027
     -   slovenian (AB)
     -   swedish
 
+## Added New controllers and Views
 
+- controllers
+	-	Gallery (BN)
+	-	About (BN)
+	-	Welcome (BN)
+	
+- views
+	-	gallery (BN) 
+	-	about (BN) 
+	-	welcome (BN) 
+	-	gallery (BN) 
